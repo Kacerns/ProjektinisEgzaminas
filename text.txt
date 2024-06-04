@@ -1,0 +1,80 @@
+Sid Meier's Civilization VI is a turn-based strategy https://en.wikipedia.org/wiki/Turn-based_strategy 4X video game developed by Firaxis Games 
+and published by 2K. The mobile and Nintendo Switch port was published by Aspyr Media.
+The latest entry into the Civilization series, it was released on Windows and macOS in 
+October 2016, with later ports for Linux in February 2017, iOS in December 2017, Nintendo 
+Switch in November 2018, PlayStation 4 and Xbox One in November 2019, and Android in 
+2020.
+Similar to previous installments, the goal for the player is to develop a civilization from an 
+early settlement through many in-game millennia to become a world power and achieve one
+of several victory conditions, such as through military domination, technological superiority,
+or cultural influence, over the other human and computer-controlled opponents. Players do
+this by exploring the world, founding new cities, building city improvements, deploying 
+military troops to attack and defend themselves from others, researching new technologies
+and civics advancements, developing an influential culture, and engaging in trade and
+negotiations with other world leaders.
+
+The game features several civilizations not featured in previous incarnations of Civilization,
+while many returning civilizations have new capitals or new leaders. A critical design focus
+was to avoid having the player follow a pre-set path of improvements towards their civilization
+which they had observed from earlier games. New to Civilization VI is the use of districts
+outside the city center to house most of the buildings. For example, a campus district must be
+built in order to house science-based buildings. Other new features include research on the
+game's technology tree based on nearby terrain, a similar technology tree for cultural
+improvements, and a better government civics structure for those playing on a cultural victory
+path. There are also new artificial intelligence mechanics for computer-controlled
+opponents, which include secret goals and randomized engagements to disrupt an otherwise
+stable game.
+The game received generally positive reviews upon release, and it was awarded Best Strategy
+Game at The Game Awards 2016 and Stategy/Simulation Game of the Year at the 20th Annual
+D.I.C.E. Awards. The game's first major expansion, Civilization VI: Rise and Fall, was released
+in February 2018. A second expansion, Civilization VI: Gathering Storm, followed in February
+2019, and a season pass, the New Frontier Pass, in May 2020. An additional expansion, the
+Leader Pass, was released from November 2022 until March 2023.
+Civilization VI is a turn-based strategy video game in which one or more players compete 
+alongside computer-controlled AI opponents to grow their individual civilization from a small
+tribe to control the entire planet across several periods of development. This can be
+accomplished by achieving one of several victory conditions, all based on the 4X gameplay
+elements, "eXplore, eXpand, eXploit, and eXterminate". Players manage a civilization of their
+choice and develop their technology, culture, and government structure between ancient
+times and the near future. They found cities and grow them through the creation of mines,
+farms, and other improvements, while simultaneously exploring the randomly-generated
+world and encountering other civilizations and barbarians. Players have the ability to trade
+and manage peaceful diplomatic relations with other civilizations or alternatively go to war
+through the use of military force. The standard edition introduced eighteen civilizations and
+nineteen leaders:
+
+Catherine de Medici of France, working with a strong spy network
+Cleopatra of Egypt, creating a trade network both internally and internationally
+Frederick Barbarossa of Germany, receiving military benefits, especially against city-states
+Gandhi of India, focusing on peace and faith
+Gilgamesh of Sumer, working on a friendly expansion game, forming alliances against mutual enemies
+Harald Hardrada of Norway, a naval power wrecking enemy coasts
+Hojo Tokimune of Japan, creating districts quickly and close together
+Mvemba a Nzinga of the Kongolese, receiving bonuses to religious relics, sculptures, and artifacts
+Pedro II of Brazil, getting bonuses from rainforests, as well as unique happiness producing districts
+Peter of Russia, a civilization benefiting from tundra tiles, as well as a strong faith game
+Philip II of Spain, a naval religious power creating strong naval fleets and armadas in the early game
+Qin Shi Huang of China, focus on build of early era wonders
+Saladin of Arabia, juggling both faith and science for a unique way to victory
+Teddy Roosevelt of America, creating massive empires focusing on natural beauty
+Tomyris of Scythia, an early game cavalry force.
+Trajan of Rome, focusing broadly between growth and domination
+Victoria of England; another naval power, suited to expand over multiple continents
+Greece had two leaders, Pericles and Gorgo; both working on culture in different ways. Pericles using city states, and Gorgo using military.
+Similar to previous Civilization games, each civilization comes with at least one unique unit 
+(often one associated closely with the civilization in a historical sense, though not always with 
+the leader), as well as another unique benefit such as an improvement, building, or a second 
+unique unit. One major change between Civilization V and Civilization VI is that both leaders 
+and civilizations have a benefit. The Greeks, regardless of leader, can produce the Hoplite https://en.wikipedia.org/wiki/Hoplite (as 
+a spearman replacement), and Acropolis (as a theater square replacement), and receive 
+Plato's Republic for an extra policy slot. However, Greek leader Gorgo utilizes a combat-based 
+ability to generate culture while her Greek counterpart, Pericles, seeks the same culture boost 
+by employing a leader ability that is more diplomatic, winning over City-States with envoys.
+The Aztecs, led by Montezuma I, was a pre-order DLC until becoming free to all players on January 19, 2017.
+Civilization VI builds upon the general gameplay of Civilization V, including continuing the use 
+of the hex-based grid introduced in Civilization V. New to Civilization VI is the idea of "city 
+unstacking": some improvements to cities must be placed in the hexes in the bounds of the 
+city but not within the city's space itself, whereas in previous games, all improvements were 
+considered stacked on the same map hex or square that the city was located in. The player 
+must assign specific hexes as "districts" in the city, which have certain limitations but grant 
+bonuses for improvements placed in that district.
